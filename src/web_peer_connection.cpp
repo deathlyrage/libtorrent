@@ -52,6 +52,7 @@ POSSIBILITY OF SUCH DAMAGE.
 #include "libtorrent/hex.hpp" // for is_hex
 #include "libtorrent/torrent.hpp"
 #include "libtorrent/http_parser.hpp"
+#include "libtorrent/random.hpp"
 
 namespace libtorrent {
 
